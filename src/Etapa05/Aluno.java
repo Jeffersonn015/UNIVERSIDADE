@@ -84,7 +84,7 @@ public class Aluno {
 
     // Método principal para rodar o código
     public static void main(String[] args) {
-        Aluno aluno = new Aluno("João da Silva", "249279", false); 
+        Aluno aluno = new Aluno("Jefferson Oliveira", "248579", false); 
         aluno.adicionarNota(10); // Adiciona a primeira nota
         aluno.adicionarNota(9); // Adiciona a segunda nota
         aluno.adicionarNota(7); // Adiciona a terceira nota
